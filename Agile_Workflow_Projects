@@ -1,0 +1,101 @@
+
+  AGILE + JIRA :
+Agenda:
+Tester/Developer day to day role in Agile Scrum Projects
+How to Use Jira tool for Project Management and its related activities
+
+We shall assume Credit card online Banking Application to Demonstrate above topics
+
+Features to Develop:
+•	Develop Login Module
+•	Credit card Dashboard 
+•	Profile
+
+Install Jira into Machines
+
+
+
+•	What Constitutes Agile Team?
+Product owner,Scrum Master, Development team(Dev,QA,BA)
+•	Create Scrum Project in Jira.
+•	what is epic?
+An epic user story is a large that cannot be delivered as defined within a single iteration or is large enough that it can be split into smaller user stories
+•	What is User story?
+•	A user story is the smallest unit of work in an agile framework.
+•	Epics are large work items broken down into a set of stories, 
+•	The purpose of a user story is articulate how a piece of work will deliver a particular value back to the customer.
+•	User stories are a few sentences in simple language that outline the desired outcome
+•	Requirements are added later, once agreed upon by the team.
+•	User stories are often expressed in a simple sentence, structured as follows:
+
+“As a [persona], I [want to], [so that	
+How to create Stories and Epics in JIRA?
+What are components and how to create them in JIRA?
+What are release versions?
+
+
+
+
+What is backlog refinement/Grooming? And how it is done?
+1 week before sprint starts
+Have it in the middle of sprint and make stories for next sprint
+1 week before Sprint 2 starts 
+•	How to define Acceptance criteria to Story?
+•	Create SubTasks for Story
+•	Size the story based on its complexity
+
+
+
+
+
+
+
+
+
+
+
+
+•	what is Sprint?
+25 userstories to complete login epic
+2 months – 6 Sprints
+Sprint duration of 10days: 5 user
+Sprint 2: 5 us
+SPrin3 : 5us
+Sprint 4 : 5
+Sprint 5 : 5
+Sprint 6 : Regression testing 
+
+•	What is Sprint planning?
+Sprint starts :Tuesday 
+
+•	Exploring Scrum Board 
+•	Daily Stand ups.
+•	How story will undergo different status and get closed?
+•	Reports after Sprint is completed.
+
+
+
+
+
+
+
+
+
+
+       Reporting Bugs in Jira
+•	Retrospective
+What went well in this sprint
+What did not go well in this sprint
+Grooming 
+•	Kanban Board
+
+
+
+
+
+
+
+
+
+
+
